@@ -1,3 +1,5 @@
+# Step 1
+
 # This is an H1 header.
 The quick brown fox jumps over the lazy dog.
 
@@ -15,3 +17,7 @@ The quick brown fox jumps over the lazy dog.
 
 ###### H6
 The quick brown fox jumps over the lazy dog.
+
+# Step 2
+![image of cat computer nerd](https://i.pinimg.com/736x/6d/fb/61/6dfb6117426030e444bceed41854ca46.jpg)
+alt text: cat computer nerd, cat using computer
