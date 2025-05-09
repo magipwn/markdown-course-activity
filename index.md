@@ -31,9 +31,9 @@ pwn("john doe")
 ```
 
 # Step 4: Task List
-- [x] Learn Python
-- [x] Create simple Python projects 
-- [ ] Create complex Python projects
-- [ ] Learn JavaScript
-- [ ] Create JavaScript projects
+- [x]  Learn Python
+- [x]  Create simple Python projects 
+- [ ]  Create complex Python projects
+- [ ]  Learn JavaScript
+- [ ]  Create JavaScript projects
 
